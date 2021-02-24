@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "docker container with webhook";
+			return "jenkins github webhook";
 		}else{
 			return "Hello " + name;
 		}
