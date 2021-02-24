@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "jenkins github webhook automation";
+			return "jenkins github auto";
 		}else{
 			return "Hello " + name;
 		}
