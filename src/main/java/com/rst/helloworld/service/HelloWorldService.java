@@ -14,7 +14,7 @@ public class HelloWorldService {
 
 		logger.debug("getDesc() is executed!");
 
-		return "JENKINS CI/CD PIPELINE WITH DOCKER";
+		return "JENKINS +MVc Cloud Candy";
 
 	}
 
