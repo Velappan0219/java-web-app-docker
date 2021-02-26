@@ -14,7 +14,7 @@ public class HelloWorldService {
 
 		logger.debug("getDesc() is executed!");
 
-		return "JENKINS +MVc Cloud Candy";
+		return "JENKINS +MVc Cloud Canmhk koka makay";
 
 	}
 
